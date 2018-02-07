@@ -11,5 +11,3 @@ ______
 Strength: 75
 Defense: 50
 Fire Breath Duration: 2s
-
-Made accidental commit
